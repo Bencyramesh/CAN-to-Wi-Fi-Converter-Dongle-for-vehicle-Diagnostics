@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a custom-designed CAN to Wi-Fi dongle intended for automotive applications. The device is designed to receive CAN bus messages from a vehicle or CAN network and transmit the data wirelessly over Wi-Fi using an ESP32.
+This project is a custom designed CAN to Wi-Fi dongle intended for automotive applications. The device is designed to receive CAN bus messages from a vehicle or CAN network and transmit the data wirelessly over Wi-Fi using an ESP32.
 
 The project focuses on learning and implementing automotive communication, embedded systems, and PCB design.
 
