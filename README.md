@@ -35,7 +35,7 @@ The project focuses on learning and implementing automotive communication, embed
 
 ## Author
 
-**Bency R**
+**BENCY R**
 
 Electronics and Communication Engineering (ECE)
 
